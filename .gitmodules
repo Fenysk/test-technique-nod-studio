@@ -1,0 +1,6 @@
+[submodule "nod-studio-frontend"]
+	path = nod-studio-frontend
+	url = https://github.com/Fenysk/nod-studio-frontend.git
+[submodule "nod-studio-backend"]
+	path = nod-studio-backend
+	url = https://github.com/Fenysk/nod-studio-backend
